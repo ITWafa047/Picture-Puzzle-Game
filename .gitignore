@@ -1,0 +1,14 @@
+# Node / React
+node_modules/
+build/
+
+# .NET
+bin/
+obj/
+
+# Python
+__pycache__/
+
+# System
+.env
+*.log
